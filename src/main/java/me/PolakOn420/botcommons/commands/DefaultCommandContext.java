@@ -1,5 +1,3 @@
-
-
 package me.PolakOn420.botcommons.commands;
 
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
