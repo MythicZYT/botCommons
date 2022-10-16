@@ -1,6 +1,6 @@
 package me.PolakOn420.botcommons.config;
 
-import me.duncte123.botcommons.JSONHelper;
+import me.PolakOn420.botcommons.JSONHelper;
 
 import java.io.File;
 import java.io.IOException;
